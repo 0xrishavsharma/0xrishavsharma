@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Yo! Nice to see you here</h1>
 
 
-<p>Welcome to my profile! </br> I'm Rishav, a Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>India</b>
+<p>Welcome to my profile! </br> I'm Rishav, a Frontend Developer from <b>India</b>
 <h3>My Techstack</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
