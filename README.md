@@ -25,32 +25,8 @@
 
 
 <h3> 📈 &nbsp;GitHub Stats </h3>
-<a href="https://github.com/0xrishavsharma">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xrishavsharma&show_icons=true&theme=algolia&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0xrishavsharma&layout=compact&langs_count=6&theme=algolia&count_private=false"/>
-</a>
-
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.1%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 220.7 kB Used in GitHub's Storage 
- > 
-> 🏆 110 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 72 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm a Night 🦉** 
 
 ```text
 🌞 Morning                108 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
@@ -58,6 +34,7 @@
 🌃 Evening                341 commits         ███████████░░░░░░░░░░░░░░   45.96 % 
 🌙 Night                  46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 ```
+
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
@@ -104,3 +81,5 @@ Python                   3 repos             █░░░░░░░░░░�
 
  Last Updated on 09/03/2024 13:25:36 UTC
 <!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
