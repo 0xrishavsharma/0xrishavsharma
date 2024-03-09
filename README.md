@@ -24,7 +24,7 @@
   ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 
 
-<h3> ⚙️ &nbsp;GitHub Analytics </h3>
+<h3> 📈 &nbsp;GitHub Stats </h3>
 <a href="https://github.com/0xrishavsharma">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xrishavsharma&show_icons=true&theme=algolia&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0xrishavsharma&layout=compact&langs_count=6&theme=algolia&count_private=false"/>
@@ -32,5 +32,4 @@
 
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
