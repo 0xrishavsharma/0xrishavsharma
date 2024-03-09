@@ -32,6 +32,8 @@
 <h3> 📈 &nbsp;GitHub Stats </h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.1%20million%20lines%20of%20code-blue)
@@ -40,7 +42,7 @@
 
 > 📦 220.7 kB Used in GitHub's Storage 
  > 
-> 🏆 113 Contributions in the Year 2024
+> 🏆 114 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,6 +50,48 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                108 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+🌆 Daytime                247 commits         ████████░░░░░░░░░░░░░░░░░   33.15 % 
+🌃 Evening                344 commits         ████████████░░░░░░░░░░░░░   46.17 % 
+🌙 Night                  46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   107 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Wednesday                139 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Thursday                 106 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Friday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Saturday                 122 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Sunday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               31 mins             █████████████░░░░░░░░░░░░   51.80 % 
+YAML                     29 mins             ████████████░░░░░░░░░░░░░   47.66 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+
+🔥 Editors: 
+VS Code                  1 hr                █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+nextjs-ai-form-builder   31 mins             █████████████░░░░░░░░░░░░   52.34 % 
+githhub-readme           29 mins             ████████████░░░░░░░░░░░░░   47.66 % 
+
+💻 Operating System: 
+Mac                      1 hr                █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -61,6 +105,6 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/03/2024 18:33:18 UTC
+ Last Updated on 09/03/2024 20:50:03 UTC
 <!--END_SECTION:waka-->
 *These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)*
