@@ -1,8 +1,12 @@
 ![Header](https://github.com/0xrishavsharma/0xrishavsharma/assets/63146727/a317a68c-8241-4c58-99b3-de1c1a799e16)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Yo! Nice to see you here <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> </h1> 
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  Hey Yo! Nice to see you here 
+<!--   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/>  -->
+</h1> 
 
-<p>Welcome to my profile! </br> I'm Rishav Sharma, a Frontend Developer from <b>India</b>
+<p>Welcome to my GitHub profile! </br> I'm Rishav Sharma, a Frontend Developer from <b>India</b>
 <h2> 🛠 &nbsp;My Tech Stack</h3>
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,16 +31,13 @@
 <h3> 📈 &nbsp;GitHub Stats </h3>
 
 <!--START_SECTION:waka-->
-
 ```text
 🌞 Morning                108 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
 🌆 Daytime                247 commits         ████████░░░░░░░░░░░░░░░░░   33.29 % 
 🌃 Evening                341 commits         ███████████░░░░░░░░░░░░░░   45.96 % 
 🌙 Night                  46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 ```
-
-📅 **I'm Most Productive on Wednesday** 
-
+📅 **I'm Most Productive on Wednesday**
 ```text
 Monday                   107 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
 Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
@@ -49,7 +50,6 @@ Sunday                   98 commits          ███░░░░░░░░�
 
 
 📊 **This Week I Spent My Time On** 
-
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
@@ -67,7 +67,6 @@ No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
-
 ```text
 JavaScript               40 repos            ████████████░░░░░░░░░░░░░   46.51 % 
 TypeScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
@@ -76,10 +75,6 @@ SCSS                     5 repos             █░░░░░░░░░░�
 Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 ```
 
-
-
-
  Last Updated on 09/03/2024 13:25:36 UTC
 <!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+*These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)*
