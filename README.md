@@ -1,4 +1,5 @@
-![Header](https://github.com/0xrishavsharma/0xrishavsharma/assets/63146727/a317a68c-8241-4c58-99b3-de1c1a799e16)
+![Header](https://github.com/0xrishavsharma/0xrishavsharma/assets/63146727/d1ced55d-0def-4c32-8adf-552853988438)
+
 
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
