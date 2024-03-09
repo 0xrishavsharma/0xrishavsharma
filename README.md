@@ -32,42 +32,24 @@
 <h3> 📈 &nbsp;GitHub Stats </h3>
 
 <!--START_SECTION:waka-->
-```text
-🌞 Morning                108 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-🌆 Daytime                247 commits         ████████░░░░░░░░░░░░░░░░░   33.29 % 
-🌃 Evening                341 commits         ███████████░░░░░░░░░░░░░░   45.96 % 
-🌙 Night                  46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-```
-📅 **I'm Most Productive on Wednesday**
-```text
-Monday                   107 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Wednesday                139 commits         █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Thursday                 106 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Friday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Saturday                 119 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Sunday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.1%20million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
-```text
-🕑︎ Time Zone: Asia/Kolkata
+**🐱 My GitHub Data** 
 
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
+> 📦 220.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 113 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 72 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
 **I Mostly Code in JavaScript** 
+
 ```text
 JavaScript               40 repos            ████████████░░░░░░░░░░░░░   46.51 % 
 TypeScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
@@ -76,6 +58,9 @@ SCSS                     5 repos             █░░░░░░░░░░�
 Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 ```
 
- Last Updated on 09/03/2024 13:25:36 UTC
+
+
+
+ Last Updated on 09/03/2024 18:33:18 UTC
 <!--END_SECTION:waka-->
 *These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)*
