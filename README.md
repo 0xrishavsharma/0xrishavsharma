@@ -32,7 +32,7 @@
 <h3> 📈 &nbsp;GitHub Stats </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -101,6 +101,6 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2024 06:05:47 UTC
+ Last Updated on 05/04/2024 09:05:13 UTC
 <!--END_SECTION:waka-->
 *These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)*
