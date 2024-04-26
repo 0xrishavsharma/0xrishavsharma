@@ -32,7 +32,7 @@
 <h3> 📈 &nbsp;GitHub Stats </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -41,8 +41,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 221.5 kB Used in GitHub's Storage 
- > 
-> 🏆 190 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,6 +101,6 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/04/2024 18:05:28 UTC
+ Last Updated on 26/04/2024 21:05:22 UTC
 <!--END_SECTION:waka-->
 *These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)*
