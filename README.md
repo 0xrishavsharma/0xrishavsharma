@@ -32,7 +32,7 @@
 <h3> 📈 &nbsp;GitHub Stats </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -46,7 +46,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 75 Public Repositories 
+> 📜 74 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
@@ -103,6 +103,6 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2024 12:06:31 UTC
+ Last Updated on 27/04/2024 15:05:26 UTC
 <!--END_SECTION:waka-->
 *These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)*
