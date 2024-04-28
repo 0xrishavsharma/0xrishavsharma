@@ -22,6 +22,7 @@
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+  ![Next Auth](https://img.shields.io/badge/next--auth-3982CE?style=for-the-badge&logo=auth&logoColor=white)
 
 <h2> 👨🏻‍💻 &nbsp;Applications I Love </h3>
 
