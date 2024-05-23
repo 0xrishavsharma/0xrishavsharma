@@ -43,8 +43,6 @@
 
 > 📦 221.5 kB Used in GitHub's Storage 
  > 
-> 🏆 191 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 74 Public Repositories 
@@ -103,6 +101,6 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2024 12:06:38 UTC
+ Last Updated on 23/05/2024 15:05:25 UTC
 <!--END_SECTION:waka-->
 *These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)*
