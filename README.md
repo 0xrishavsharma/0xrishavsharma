@@ -33,7 +33,7 @@
 <h3> 📈 &nbsp;GitHub Stats </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,8 +42,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 226.8 kB Used in GitHub's Storage 
- > 
-> 🏆 209 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,17 +76,17 @@ Sunday                   122 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   40.43 % 
-TypeScript               3 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   40.10 % 
-Other                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-SCSS                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+JavaScript               5 hrs 45 mins       ████████████░░░░░░░░░░░░░   49.93 % 
+TypeScript               3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+Other                    1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+SCSS                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  11 hrs 31 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      11 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,6 +102,6 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2024 18:05:55 UTC
+ Last Updated on 12/06/2024 00:15:27 UTC
 <!--END_SECTION:waka-->
 *These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)*
