@@ -33,7 +33,7 @@
 <h3> 📈 &nbsp;GitHub Stats </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -94,16 +94,16 @@ Mac                      9 hrs 56 mins       ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               40 repos            ████████████░░░░░░░░░░░░░   47.06 % 
-TypeScript               20 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-SCSS                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+JavaScript               40 repos            ████████████░░░░░░░░░░░░░   46.51 % 
+TypeScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+SCSS                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 
 
 
- Last Updated on 01/07/2024 06:07:06 UTC
+ Last Updated on 01/07/2024 09:06:49 UTC
 <!--END_SECTION:waka-->
 *These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)*
