@@ -33,7 +33,7 @@
 <h3> 📈 &nbsp;GitHub Stats </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,8 +42,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 228.3 kB Used in GitHub's Storage 
- > 
-> 🏆 346 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,14 +76,15 @@ Sunday                   140 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 21 mins       ███████████████████████░░   93.65 % 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+TypeScript               1 hr                ████████████████████░░░░░   80.46 % 
+JavaScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+TSConfig                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -101,6 +100,6 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2024 21:05:57 UTC
+ Last Updated on 24/07/2024 00:16:59 UTC
 <!--END_SECTION:waka-->
 *These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)*
